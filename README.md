@@ -35,7 +35,7 @@ The models can be accessed from Hugging Face -
 ## 💻 System info
 
 The Jupyter notebooks are excuted on [Intel® Developer Cloud](https://www.intel.com/content/www/us/en/developer/tools/devcloud/services.html) (Intel Xeon CPU with single Intel Max 1100 GPU) using tensorflow_xpu environment.
-## Demo
+## 🕹️ Demo
 
 ![Web_App](./gifs/Web_App.gif)
 
@@ -47,9 +47,9 @@ To get True/False answer on the web app, the question needs to be tagged with th
 
 
 [![Web App](https://img.shields.io/badge/Web_APP-red?style=for-the-badge&logo=streamlit&logoColor=white
-)]()
+)](https://intel-oneapi-llm.streamlit.app/)
 [![medium](https://img.shields.io/badge/medium-black?style=for-the-badge&logo=medium&logoColor=white
-)]()
+)](https://medium.com/@www.david.pratik/intel-oneapi-hackathon-the-llm-challenge-d3ef01de4589)
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://next-app-portfolio-pratikdavidson.vercel.app/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratik-deogam-107732215/)
 
